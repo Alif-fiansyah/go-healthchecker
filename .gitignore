@@ -1,0 +1,11 @@
+# Binary build outputs
+go-healthchecker
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test and coverage artifacts
+*.out
+*.test
